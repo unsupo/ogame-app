@@ -1,3 +1,6 @@
 # Intellij IDE
 .idea
 *.iml
+
+# Github claims this is a security risk
+package-lock.json
